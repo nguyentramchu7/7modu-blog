@@ -1,0 +1,77 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { MAIN_SITE_URL, HOTLINE_DISPLAY } from '../consts';
+---
+
+<!doctype html>
+<html lang="vi">
+	<head>
+		<BaseHead title="Về 7MODU — Nội thất Module Thông Minh" description="7MODU là thương hiệu nội thất module Việt Nam — sofa, giường, tủ tháo lắp 5 phút, lọt mọi thang máy chung cư." />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Về 7MODU</h1>
+
+			<p class="lead">
+				<strong>7MODU</strong> là thương hiệu nội thất Module Việt Nam — chuyên sofa, giường, tủ
+				tháo lắp bằng hệ ngàm sập, không dùng ốc vít, tự lắp trong 5 phút.
+			</p>
+
+			<h2>Tại sao 7MODU ra đời?</h2>
+			<p>
+				Người sáng lập từng tự tay chuyển sofa lên 6 tầng chung cư mà thang máy không lọt — phải thuê thợ
+				tời ngoài ban công, tốn cả triệu đồng. Đó là lý do 7MODU ra đời:
+				<strong>để không ai phải đối mặt với cảnh đó nữa</strong>.
+			</p>
+
+			<h2>Điều khiến 7MODU khác biệt</h2>
+			<ul>
+				<li><strong>Hệ ngàm sập 0 ốc vít</strong> — sập cạch là xong, không cần thợ, không cần dụng cụ</li>
+				<li><strong>Lọt mọi thang máy</strong> — đóng từng module riêng vào carton, xách tay vào thang máy 90cm dễ dàng</li>
+				<li><strong>Vỏ giặt máy được</strong> — có khóa kéo, tháo ra giặt máy như quần áo, phù hợp nhà có trẻ nhỏ và thú cưng</li>
+				<li><strong>Lắp 5 phút</strong> — vợ chồng tự ráp được, không cần gọi thợ</li>
+				<li><strong>Bảo hành 2 năm</strong> khung + foam, 6 tháng vải</li>
+			</ul>
+
+			<h2>Sản phẩm</h2>
+			<p>
+				7MODU có sofa, giường, tủ, bàn — tất cả đều theo triết lý module tháo lắp.
+				Xem catalog đầy đủ tại <a href={MAIN_SITE_URL} target="_blank" rel="noopener">7modu.com</a>.
+			</p>
+
+			<h2>Liên hệ</h2>
+			<p>
+				Hotline (Zalo): <strong><a href={`tel:${HOTLINE_DISPLAY.replace(/\./g, '')}`}>{HOTLINE_DISPLAY}</a></strong><br />
+				Email: <a href="mailto:7moduvn@gmail.com">7moduvn@gmail.com</a><br />
+				Địa chỉ: Tổ 18, ấp Cầu Xéo, Xã Long Thành, Tỉnh Đồng Nai
+			</p>
+
+			<div style="margin-top: 3em; text-align: center;">
+				<a href={MAIN_SITE_URL} class="cta-button" target="_blank" rel="noopener">
+					Xem sản phẩm 7MODU →
+				</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.lead {
+		font-size: 1.2em;
+		color: rgb(var(--gray-dark));
+		border-left: 4px solid var(--accent-orange);
+		padding-left: 1em;
+		margin: 1.5em 0;
+	}
+	h2 {
+		color: var(--accent);
+		margin-top: 2em;
+	}
+	ul li {
+		margin-bottom: 0.5em;
+	}
+</style>

@@ -1,0 +1,137 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_DESCRIPTION, SITE_TITLE, MAIN_SITE_URL } from '../consts';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+).slice(0, 6);
+---
+
+<!doctype html>
+<html lang="vi">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<h1>Nội thất Module 7MODU</h1>
+				<p class="lead">
+					Kiến thức về <strong>sofa lọt thang máy</strong>, mẹo chọn nội thất chung cư
+					và cách bố trí không gian sống thông minh. Cập nhật mỗi tuần.
+				</p>
+				<a href={MAIN_SITE_URL} class="cta-button" target="_blank" rel="noopener">
+					Khám phá sản phẩm 7MODU →
+				</a>
+			</section>
+
+			<section class="latest-posts">
+				<h2>Bài viết mới nhất</h2>
+				{posts.length === 0 ? (
+					<p class="empty">Chưa có bài viết. Bot SEO sẽ sớm đăng bài đầu tiên.</p>
+				) : (
+					<ul class="post-list">
+						{posts.map(post => (
+							<li>
+								<a href={`/blog/${post.id}/`}>
+									<h3>{post.data.title}</h3>
+									<p class="meta"><FormattedDate date={post.data.pubDate} /></p>
+									<p class="desc">{post.data.description}</p>
+								</a>
+							</li>
+						))}
+					</ul>
+				)}
+				<p class="see-all"><a href="/blog">Xem tất cả bài viết →</a></p>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.hero {
+		text-align: center;
+		padding: 3em 0 2em 0;
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	.hero h1 {
+		font-size: 2.5em;
+		color: var(--accent);
+		margin-bottom: 0.5em;
+	}
+	.lead {
+		font-size: 1.2em;
+		color: rgb(var(--gray-dark));
+		max-width: 600px;
+		margin: 0 auto 1.5em auto;
+	}
+	.latest-posts {
+		padding: 2em 0;
+	}
+	.latest-posts h2 {
+		font-size: 1.5em;
+		margin-bottom: 1em;
+		color: var(--accent);
+	}
+	.post-list {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.post-list li {
+		margin-bottom: 1em;
+		border-bottom: 1px solid rgb(var(--gray-light));
+		padding-bottom: 1em;
+	}
+	.post-list li:last-child {
+		border-bottom: none;
+	}
+	.post-list a {
+		display: block;
+		padding: 0.5em;
+		border-radius: 8px;
+		text-decoration: none;
+		color: inherit;
+		transition: background 0.2s;
+	}
+	.post-list a:hover {
+		background: rgba(0, 75, 135, 0.05);
+	}
+	.post-list h3 {
+		font-size: 1.3em;
+		margin: 0 0 0.25em 0;
+		color: rgb(var(--black));
+	}
+	.post-list .meta {
+		font-size: 0.85em;
+		color: rgb(var(--gray));
+		margin: 0 0 0.5em 0;
+	}
+	.post-list .desc {
+		font-size: 0.95em;
+		color: rgb(var(--gray-dark));
+		margin: 0;
+	}
+	.see-all {
+		margin-top: 2em;
+		font-weight: 600;
+	}
+	.empty {
+		color: rgb(var(--gray));
+		font-style: italic;
+	}
+	@media (max-width: 720px) {
+		.hero h1 {
+			font-size: 1.8em;
+		}
+		.lead {
+			font-size: 1.05em;
+		}
+	}
+</style>

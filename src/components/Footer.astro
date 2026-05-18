@@ -1,0 +1,73 @@
+---
+import { MAIN_SITE_URL, HOTLINE_DISPLAY } from '../consts';
+const today = new Date();
+---
+
+<footer>
+	<div class="footer-grid">
+		<div class="footer-col">
+			<h4>7MODU</h4>
+			<p>Nội thất Module thông minh — Lắp ráp 5 phút, lọt thang máy chung cư, vỏ giặt máy được.</p>
+		</div>
+		<div class="footer-col">
+			<h4>Liên hệ</h4>
+			<p>
+				Hotline: <a href={`tel:${HOTLINE_DISPLAY.replace(/\./g, '')}`}>{HOTLINE_DISPLAY}</a><br />
+				Website: <a href={MAIN_SITE_URL} target="_blank" rel="noopener">7modu.com</a><br />
+				Email: <a href="mailto:7moduvn@gmail.com">7moduvn@gmail.com</a>
+			</p>
+		</div>
+		<div class="footer-col">
+			<h4>Sản phẩm</h4>
+			<p>
+				<a href={`${MAIN_SITE_URL}/sofa-module`} target="_blank" rel="noopener">Sofa Module</a><br />
+				<a href={`${MAIN_SITE_URL}/giuong-module`} target="_blank" rel="noopener">Giường Module</a><br />
+				<a href={`${MAIN_SITE_URL}/tu-module`} target="_blank" rel="noopener">Tủ Module</a>
+			</p>
+		</div>
+	</div>
+	<div class="footer-bottom">
+		&copy; {today.getFullYear()} 7MODU Vietnam. Mọi quyền được bảo lưu.
+	</div>
+</footer>
+<style>
+	footer {
+		padding: 3em 1em 2em 1em;
+		background: rgb(var(--gray-dark));
+		color: rgba(255, 255, 255, 0.85);
+		margin-top: 4em;
+	}
+	.footer-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+		gap: 2em;
+		max-width: 1100px;
+		margin: 0 auto 2em auto;
+	}
+	.footer-col h4 {
+		color: white;
+		margin-bottom: 0.5em;
+		font-size: 1em;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+	.footer-col p {
+		font-size: 0.95em;
+		line-height: 1.8;
+		color: rgba(255, 255, 255, 0.7);
+	}
+	.footer-col a {
+		color: rgba(255, 255, 255, 0.85);
+		text-decoration: none;
+	}
+	.footer-col a:hover {
+		color: var(--accent-orange);
+	}
+	.footer-bottom {
+		text-align: center;
+		padding-top: 2em;
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+		font-size: 0.85em;
+		color: rgba(255, 255, 255, 0.5);
+	}
+</style>

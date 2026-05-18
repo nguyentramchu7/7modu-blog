@@ -1,0 +1,85 @@
+---
+import { SITE_TITLE, MAIN_SITE_URL } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header>
+	<nav>
+		<h2><a href="/">7MODU<span class="dot">.</span>Blog</a></h2>
+		<div class="internal-links">
+			<HeaderLink href="/">Trang chủ</HeaderLink>
+			<HeaderLink href="/blog">Bài viết</HeaderLink>
+			<HeaderLink href="/about">Về 7MODU</HeaderLink>
+		</div>
+		<div class="cta-links">
+			<a href={MAIN_SITE_URL} target="_blank" rel="noopener" class="shop-link">
+				Mua sofa →
+			</a>
+		</div>
+	</nav>
+</header>
+<style>
+	header {
+		margin: 0;
+		padding: 0 1em;
+		background: white;
+		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		position: sticky;
+		top: 0;
+		z-index: 10;
+	}
+	h2 {
+		margin: 0;
+		font-size: 1.2em;
+		font-weight: 700;
+	}
+	h2 a {
+		color: var(--accent);
+	}
+	.dot {
+		color: var(--accent-orange);
+	}
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		max-width: 1100px;
+		margin: 0 auto;
+	}
+	nav a {
+		padding: 1em 0.75em;
+		color: rgb(var(--black));
+		border-bottom: 3px solid transparent;
+		text-decoration: none;
+		font-weight: 500;
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: var(--accent-orange);
+		color: var(--accent);
+	}
+	.shop-link {
+		background: var(--accent-orange);
+		color: white !important;
+		padding: 0.5em 1em !important;
+		border-radius: 8px;
+		font-weight: 600;
+		border-bottom: none !important;
+	}
+	.shop-link:hover {
+		background: var(--accent-orange-dark);
+	}
+	@media (max-width: 720px) {
+		.internal-links a {
+			padding: 1em 0.5em;
+			font-size: 0.9em;
+		}
+		.cta-links {
+			display: none;
+		}
+	}
+</style>

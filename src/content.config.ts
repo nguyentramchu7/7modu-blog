@@ -6,14 +6,14 @@ const blog = defineCollection({
 	// Load Markdown and MDX files in the `src/content/blog/` directory.
 	loader: glob({ base: './src/content/blog', pattern: '**/*.{md,mdx}' }),
 	// Type-check frontmatter using a schema
-	schema: ({ image }) =>
+	schema: () =>
 		z.object({
 			title: z.string(),
 			description: z.string(),
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
-			// heroImage có thể là Astro image asset HOẶC string URL trỏ tới /images/...
-			heroImage: z.union([image(), z.string()]).optional(),
+			// heroImage là string URL — trỏ tới /images/posts/{slug}/... trong public/
+			heroImage: z.string().optional(),
 			heroImageAlt: z.string().optional(),
 		}),
 });

@@ -4,6 +4,13 @@ description: 'Hướng dẫn chi tiết cách giặt và bảo quản áo bọc 
 pubDate: '2026-04-17'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/fwGIDmfnqR0" title="Cách bảo quản & giặt áo bọc sofa bền như mới | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Cách bảo quản & giặt áo bọc sofa bền như mới | 7MODU","description":"Hướng dẫn chi tiết cách giặt và bảo quản áo bọc sofa đúng cách để bền đẹp 5+ năm. Tips từ chuyên gia vải 7MODU theo từng chất liệu.","thumbnailUrl":"https://i.ytimg.com/vi/fwGIDmfnqR0/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=fwGIDmfnqR0","embedUrl":"https://www.youtube.com/embed/fwGIDmfnqR0"}</script>
+
 ## Tại Sao Cần Bảo Quản Áo Sofa Đúng Cách?
 
 Áo bọc sofa là lớp bảo vệ và thẩm mỹ quan trọng nhất. Giặt sai cách có thể:

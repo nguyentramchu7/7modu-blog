@@ -4,6 +4,13 @@ description: 'Đang tìm sofa module phù hợp cho căn hộ chung cư nhỏ? 1
 pubDate: '2026-04-12'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/Wu0chot_S7Y" title="Chọn sofa cho căn hộ nhỏ: mẹo không bị chật | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Chọn sofa cho căn hộ nhỏ: mẹo không bị chật | 7MODU","description":"Đang tìm sofa module phù hợp cho căn hộ chung cư nhỏ? 10 điều cần biết trước khi mua giúp bạn chọn đúng kích thước, cấu hình và chất liệu. Tư vấn miễn phí từ...","thumbnailUrl":"https://i.ytimg.com/vi/Wu0chot_S7Y/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=Wu0chot_S7Y","embedUrl":"https://www.youtube.com/embed/Wu0chot_S7Y"}</script>
+
 ## Thực Tế Của Phòng Khách Chung Cư Việt Nam
 
 Căn hộ 50–70m² đang là phân khúc phổ biến nhất tại TP.HCM và Hà Nội. Phòng khách trong những căn này thường chỉ rộng **12–20m²** — đủ để đặt một bộ sofa, bàn trà và tivi.

@@ -4,6 +4,13 @@ description: 'Bảng giá sofa module chi tiết 2025 theo từng phân khúc �
 pubDate: '2026-04-18'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/BXsmKbR8cSc" title="Sofa module giá bao nhiêu? Bảng giá chi tiết 2026 | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Sofa module giá bao nhiêu? Bảng giá chi tiết 2026 | 7MODU","description":"Bảng giá sofa module chi tiết 2025 theo từng phân khúc — từ bình dân đến cao cấp. Giá 7MODU và so sánh với các thương hiệu khác. Cập nhật tháng 4/2025.","thumbnailUrl":"https://i.ytimg.com/vi/BXsmKbR8cSc/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=BXsmKbR8cSc","embedUrl":"https://www.youtube.com/embed/BXsmKbR8cSc"}</script>
+
 ## Sofa Module Giá Bao Nhiêu? Câu Hỏi Đầu Tiên Của 90% Khách Hàng
 
 Giá sofa module dao động rất rộng tại Việt Nam — từ **5 triệu đến hơn 100 triệu đồng** tùy chất lượng, thương hiệu và số lượng module. Bài viết này cung cấp bảng giá thực tế để bạn có căn cứ so sánh.

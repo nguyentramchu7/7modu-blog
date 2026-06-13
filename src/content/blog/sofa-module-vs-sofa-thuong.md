@@ -4,6 +4,13 @@ description: 'So sánh chi tiết sofa module vs sofa truyền thống: giá c�
 pubDate: '2026-04-11'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/OxjcrksANVw" title="Sofa module và sofa thường khác nhau chỗ nào? | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Sofa module và sofa thường khác nhau chỗ nào? | 7MODU","description":"So sánh chi tiết sofa module vs sofa truyền thống: giá cả, độ bền, tính linh hoạt, chi phí dài hạn. Kết luận thực tế từ chuyên gia 7MODU giúp bạn đưa ra quyế...","thumbnailUrl":"https://i.ytimg.com/vi/OxjcrksANVw/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=OxjcrksANVw","embedUrl":"https://www.youtube.com/embed/OxjcrksANVw"}</script>
+
 ## Câu Hỏi Muôn Thuở Của Người Mua Sofa
 
 Bước vào showroom nội thất, bạn đứng trước hai lựa chọn:
@@ -37,7 +44,7 @@ Vậy cái nào đáng tiền hơn? Bài viết này so sánh **7 tiêu chí qua
 - Năm 3–4: vệ sinh chuyên sâu 1–2 triệu
 - Năm 5: cũ, xỉn, chán → mua mới 18 triệu
 - Năm 8–9: mua mới lần 3 → 20 triệu
-- **Tổng 10 năm: ~57 triệu**
+- **Tổng 10 năm: ~510.5 triệu**
 
 **Sofa module 7MODU:**
 - Năm 1: mua mới 25 triệu

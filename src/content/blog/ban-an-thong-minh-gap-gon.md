@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Bàn Ăn Thông Minh Gấp Gọn: Giải Pháp Cho Căn Hộ Nhỏ'
 description: 'Bàn ăn thông minh gấp gọn giúp chung cư 50m² có nguyên bàn 6 chỗ mà không mất diện tích. Xem giải pháp thực tế, so sánh loại, và cách chọn đúng.'
 pubDate: '2026-05-19'
@@ -108,7 +108,7 @@ Nếu anh/chị muốn nhận thông báo khi sản phẩm ra mắt (kèm ưu đ
 
 ---
 
-Trong khi chờ, nếu anh/chị đang decor căn hộ mới, bộ sofa module của 7MODU đang bán chính thức và giải quyết bài toán "lọt thang máy" rất tốt. Sofa Chữ I 3 chỗ — bán chạy nhất — chỉ **9,100,000đ**, đóng gọn 3 thùng carton riêng, mỗi thùng 1 người xách tay. Xem thêm tại [7modu.com](https://7modu.com).
+Trong khi chờ, nếu anh/chị đang decor căn hộ mới, bộ sofa module của 7MODU đang bán chính thức và giải quyết bài toán "lọt thang máy" rất tốt. Sofa Chữ I 3 chỗ — bán chạy nhất — chỉ **14,350,000đ**, đóng gọn 3 thùng carton riêng, mỗi thùng 1 người xách tay. Xem thêm tại [7modu.com](https://7modu.com).
 
 ## Tạm Kết: Chọn Đúng Ngay Từ Đầu Để Không Phải Thanh Lý
 

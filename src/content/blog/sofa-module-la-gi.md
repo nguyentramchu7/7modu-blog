@@ -4,6 +4,13 @@ description: 'Sofa module là gì? Khám phá toàn bộ kiến thức về sofa
 pubDate: '2026-04-09'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/zxVdC2mUoEs" title="Sofa Module La Gi | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Sofa Module La Gi | 7MODU","description":"Sofa module là gì? Khám phá toàn bộ kiến thức về sofa module — cấu tạo, ưu nhược điểm, cách chọn phù hợp cho căn hộ Việt Nam. Hướng dẫn chi tiết từ 7MODU.","thumbnailUrl":"https://i.ytimg.com/vi/zxVdC2mUoEs/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=zxVdC2mUoEs","embedUrl":"https://www.youtube.com/embed/zxVdC2mUoEs"}</script>
+
 ## Sofa Module Là Gì?
 
 Sofa module (còn gọi là sofa modular hoặc sofa ghép module) là loại ghế sofa được thiết kế từ nhiều **đơn vị độc lập** (module) có thể ghép nối, tháo rời và tái cấu hình linh hoạt theo ý muốn của người dùng.

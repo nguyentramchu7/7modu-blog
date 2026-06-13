@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sofa Chữ L Module: Giải Pháp Cho Chung Cư Thang Máy Hẹp'
 description: 'Sofa chữ L module 7MODU — 5 module tháo rời, lọt thang máy 90cm, tự lắp 5 phút, 0 ốc vít. Xem thông số, giá, so sánh chi tiết trước khi mua.'
 pubDate: '2026-05-19'
@@ -129,9 +129,9 @@ Cấu hình bao gồm: 5 module ngồi + 2 tay sofa, màu vải theo lựa chọ
 
 | Sản phẩm | Cấu hình | Giá |
 |----------|----------|-----|
-| Sofa Đơn | 1 module + 2 tay | 4,900,000 ₫ |
-| Sofa Băng (2 chỗ) | 2 module + 2 tay | 7,000,000 ₫ |
-| Sofa Chữ I (3 chỗ) ⭐ | 3 module + 2 tay | 9,100,000 ₫ |
+| Sofa Đơn | 1 module + 2 tay | 6,650,000 ₫ |
+| Sofa Băng (2 chỗ) | 2 module + 2 tay | 10,500,000 ₫ |
+| Sofa Chữ I (3 chỗ) ⭐ | 3 module + 2 tay | 14,350,000 ₫ |
 | Giường Sofa | 3 module + 1 tay | 7,700,000 ₫ |
 | **Sofa Chữ L (3+2 chỗ)** | **5 module + 2 tay** | **13,300,000 ₫** |
 

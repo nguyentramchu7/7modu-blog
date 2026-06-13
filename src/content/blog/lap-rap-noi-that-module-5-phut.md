@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Lắp Ráp Nội Thất Module 5 Phút: Thật Hay Quảng Cáo?'
 description: 'Lắp ráp nội thất module 5 phút có thật không? Mình giải thích cơ chế ngàm sập, video thực tế và so sánh với sofa ốc vít truyền thống. Xem ngay.'
 pubDate: '2026-05-19'
@@ -46,9 +46,9 @@ Không chỉ sofa. Hệ ngàm sập này được thiết kế nhất quán cho 
 
 | Sản phẩm | Cấu hình | Thời gian lắp (ước tính) | Giá |
 |---|---|---|---|
-| Sofa Đơn 1 chỗ | 1 module + 2 tay | ~3 phút | 4,900,000đ |
-| Sofa Băng 2 chỗ | 2 module + 2 tay | ~4 phút | 7,000,000đ |
-| Sofa Chữ I 3 chỗ ⭐ | 3 module + 2 tay | ~5–8 phút | 9,100,000đ |
+| Sofa Đơn 1 chỗ | 1 module + 2 tay | ~3 phút | 6,650,000đ |
+| Sofa Băng 2 chỗ | 2 module + 2 tay | ~4 phút | 10,500,000đ |
+| Sofa Chữ I 3 chỗ ⭐ | 3 module + 2 tay | ~5–8 phút | 14,350,000đ |
 | Sofa Chữ L 3+2 chỗ | 5 module + 2 tay | ~10–15 phút | 13,300,000đ |
 | Giường Sofa | 3 module + 1 tay | ~5 phút | 7,700,000đ |
 

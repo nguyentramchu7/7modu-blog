@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Tủ Bếp Module: Giải Pháp Bếp Chung Cư Không Cần Thợ Mộc'
 description: 'Tủ bếp module lắp ráp tại nhà, không ốc vít, lọt thang máy chung cư. So sánh chi phí với đóng thợ, hướng dẫn chọn đúng cấu hình cho bếp nhỏ.'
 pubDate: '2026-05-18'
@@ -85,7 +85,7 @@ Dòng tủ bếp này **sắp ra mắt** — nếu anh/chị muốn nhận thôn
 Nếu anh/chị đang chuẩn bị chuyển nhà hoặc setup không gian mới, 7MODU hiện có đầy đủ nội thất module cho toàn bộ không gian — không chỉ bếp:
 
 **Phòng khách:**
-- Sofa Chữ I 3 chỗ (bán chạy nhất): **9,100,000đ** — 3 thùng carton, lọt mọi thang máy
+- Sofa Chữ I 3 chỗ (bán chạy nhất): **14,350,000đ** — 3 thùng carton, lọt mọi thang máy
 - Sofa Chữ L 3+2 chỗ: **13,300,000đ** — module độc lập, đổi cấu hình tuỳ phòng
 - Giường Sofa 2-in-1: **7,700,000đ** — ngày ngồi, đêm ngủ, tháo lắp 3 phút
 

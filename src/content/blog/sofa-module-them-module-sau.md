@@ -4,6 +4,13 @@ description: 'Giải đáp chi tiết: Sofa module có thể mua thêm module sa
 pubDate: '2026-04-16'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/e6_PUM92yps" title="Sofa module: mua thêm module mở rộng sau này | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Sofa module: mua thêm module mở rộng sau này | 7MODU","description":"Giải đáp chi tiết: Sofa module có thể mua thêm module sau không? Điều kiện, cách thực hiện và lưu ý quan trọng từ 7MODU.","thumbnailUrl":"https://i.ytimg.com/vi/e6_PUM92yps/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=e6_PUM92yps","embedUrl":"https://www.youtube.com/embed/e6_PUM92yps"}</script>
+
 ## Câu Hỏi Phổ Biến Nhất Của Khách Hàng 7MODU
 
 *"Nếu tôi mua 3 module trước, sau này có mua thêm để ghép không?"*

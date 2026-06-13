@@ -4,6 +4,13 @@ description: 'Hướng dẫn phối màu áo sofa theo 6 phong cách nội thấ
 pubDate: '2026-04-15'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/DzbGyWnDRxs" title="Cách phối màu áo sofa cho phòng khách đẹp | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Cách phối màu áo sofa cho phòng khách đẹp | 7MODU","description":"Hướng dẫn phối màu áo sofa theo 6 phong cách nội thất phổ biến: Minimal, Japandi, Boho, Scandinavian, Modern, Luxury. Tips thực tế từ designer 7MODU.","thumbnailUrl":"https://i.ytimg.com/vi/DzbGyWnDRxs/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=DzbGyWnDRxs","embedUrl":"https://www.youtube.com/embed/DzbGyWnDRxs"}</script>
+
 ## Màu Sofa Quyết Định Cảm Xúc Của Cả Căn Phòng
 
 Sofa là vật dụng lớn nhất và nổi bật nhất trong phòng khách. Màu sắc của sofa (áo bọc sofa) ảnh hưởng đến **70% cảm giác thẩm mỹ** tổng thể của không gian. Chọn sai màu — cả phòng mất cân đối.

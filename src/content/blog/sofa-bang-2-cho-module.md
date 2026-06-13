@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Sofa Băng 2 Chỗ Module: Giải Pháp Cho Chung Cư Nhỏ'
-description: 'Sofa băng 2 chỗ module 7MODU — 0 ốc vít, lọt thang máy 90cm, tự lắp 5 phút. Giá 7 triệu, 2 thùng carton gọn. Xem ngay trước khi mua!'
+description: 'Sofa băng 2 chỗ module 7MODU — 0 ốc vít, lọt thang máy 90cm, tự lắp 5 phút. Giá 10.5 triệu, 2 thùng carton gọn. Xem ngay trước khi mua!'
 pubDate: '2026-05-19'
 heroImage: '/images/posts/sofa-bang-2-cho-module/hero-0.jpg'
 heroImageAlt: 'Sofa băng 2 chỗ màu xám hiện đại trong showroom 7MODU'
@@ -47,8 +47,8 @@ Trước khi quyết định, anh/chị cần biết chính xác những con s�
 
 | Thông số | Chi tiết |
 |---|---|
-| **Giá** | 7,000,000 đ |
-| **Cấu hình** | 2 module ngồi + 2 tay |
+| **Giá** | 10,500,000 đ |
+| **Cấu hình** | 2 ngồi + 2 tựa + 2 tay |
 | **Kích thước** | 155 × 85 × 75 cm |
 | **Số thùng carton** | 2 thùng |
 | **Foam** | HR 35 kg/m³ — bền 7–10 năm |
@@ -73,7 +73,7 @@ Nhiều anh/chị đang phân vân giữa sofa module và các loại sofa khác
 | **Chuyển nhà** | ✅ Tự tháo, xách tay | ❌ Thuê thợ + xe tải | ⚠️ Tháo được nhưng mất thời gian |
 | **Độ bền foam** | ✅ HR 35 kg/m³, 7–10 năm | Tuỳ thương hiệu | ⚠️ Thường thấp hơn |
 | **Thay đổi màu sắc** | ✅ Đổi vỏ mới dễ dàng | ❌ Không thể | ❌ Khó |
-| **Giá** | 7,000,000 đ | 5–15 triệu (biến động lớn) | 4–10 triệu |
+| **Giá** | 10,500,000 đ | 5–15 triệu (biến động lớn) | 4–10 triệu |
 
 Sofa truyền thống không phải xấu — nó tốt cho những ai có nhà rộng, xe tải vào được, và không có kế hoạch chuyển nhà. Nhưng với chung cư đô thị, thang máy hẹp, hay người hay chuyển trọ, sofa module thực sự là lựa chọn thông minh hơn về lâu dài.
 
@@ -122,8 +122,8 @@ Nếu anh/chị chưa chắc kích thước có phù hợp không, cứ gửi s�
 
 Sofa băng 2 chỗ là điểm khởi đầu hoàn hảo. Nhưng 7MODU cũng có các cấu hình khác nếu nhu cầu lớn hơn:
 
-- **Sofa Đơn 1 chỗ — 4,900,000đ:** Dành cho góc đọc sách, phòng ngủ nhỏ, hoặc kết hợp với sofa băng tạo cụm ngồi linh hoạt
-- **Sofa Chữ I 3 chỗ — 9,100,000đ (bán chạy nhất):** Khi phòng khách 50–70m² cần sofa gia đình đủ rộng — vẫn lọt thang máy trong 3 thùng carton
+- **Sofa Đơn 1 chỗ — 6,650,000đ:** Dành cho góc đọc sách, phòng ngủ nhỏ, hoặc kết hợp với sofa băng tạo cụm ngồi linh hoạt
+- **Sofa Chữ I 3 chỗ — 14,350,000đ (bán chạy nhất):** Khi phòng khách 50–70m² cần sofa gia đình đủ rộng — vẫn lọt thang máy trong 3 thùng carton
 - **Sofa Chữ L — 13,300,000đ:** Dành cho phòng khách 35m²+ muốn cấu hình L đầy đủ
 
 Xem toàn bộ dòng sản phẩm tại [7modu.com](https://7modu.com) để so sánh và chọn đúng cấu hình phù hợp với kích thước phòng.
@@ -156,7 +156,7 @@ Vỏ sofa 7MODU có khóa kéo ở mặt dưới — tháo ra dễ dàng trong 1
 
 ## Sẵn Sàng Xem Thực Tế Trước Khi Quyết?
 
-Sofa băng 2 chỗ module 7MODU — **7,000,000đ**, 2 thùng carton, lọt thang máy 90cm, tự lắp 5 phút, vỏ giặt máy được. Đó là tất cả những gì anh/chị cần biết trên giấy tờ.
+Sofa băng 2 chỗ module 7MODU — **10,500,000đ**, 2 thùng carton, lọt thang máy 90cm, tự lắp 5 phút, vỏ giặt máy được. Đó là tất cả những gì anh/chị cần biết trên giấy tờ.
 
 Nhưng mình biết mua sofa là quyết định không nhỏ. Anh/chị muốn xem ảnh thực tế, video lắp ráp, hoặc hỏi kích thước có vừa phòng không — đội tư vấn 7MODU sẵn sàng hỗ trợ qua Zalo **ngay hôm nay**, không cần đặt hẹn, không cần đến showroom.
 

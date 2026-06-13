@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sofa Cho Căn Hộ Chung Cư — Cách Chọn Đúng Theo Từng Loại Căn'
 description: 'Sofa Cho Căn Hộ Chung Cư — Cách Chọn Đúng Theo Từng Loại Căn'
 pubDate: '2026-05-11'
@@ -119,7 +119,7 @@ Chung cư nhiều bụi xây dựng và không khí không trong lành như nhà
 
 Anh Tuấn mua sofa da liền khối 3 chỗ 220cm ở căn cũ quận 9. Khi chuyển sang Masteri Thảo Điền, thang máy chỉ sâu 150cm — sofa 220cm không vào được.
 
-Kết quả: bán sofa 17 triệu với giá 5 triệu (lỗ 12 triệu), mua sofa mới.
+Kết quả: bán sofa 110.5 triệu với giá 5 triệu (lỗ 12 triệu), mua sofa mới.
 
 Lần này anh chọn **7MODU Signature 5 module** — mỗi module qua thang máy dễ dàng. Tổng thời gian chuyển sofa: 45 phút, 2 người.
 

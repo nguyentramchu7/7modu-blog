@@ -4,6 +4,13 @@ description: '5 sai lầm phổ biến nhất khi mua sofa tại Việt Nam và 
 pubDate: '2026-04-27'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/_z1gx_pq6Oc" title="5 sai lầm khi mua sofa khiến bạn tốn tiền oan | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"5 sai lầm khi mua sofa khiến bạn tốn tiền oan | 7MODU","description":"5 sai lầm phổ biến nhất khi mua sofa tại Việt Nam và cách tránh. Đừng để mắc phải những lỗi này trước khi chi hàng chục triệu đồng.","thumbnailUrl":"https://i.ytimg.com/vi/_z1gx_pq6Oc/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=_z1gx_pq6Oc","embedUrl":"https://www.youtube.com/embed/_z1gx_pq6Oc"}</script>
+
 ## Vì Sao Nhiều Người Hối Hận Sau Khi Mua Sofa?
 
 Sofa là khoản chi lớn — từ 10 đến 30 triệu đồng. Nhưng khảo sát không chính thức cho thấy **hơn 60% người mua sofa** cảm thấy không hài lòng sau 1–2 năm sử dụng vì một trong 5 sai lầm dưới đây.
@@ -44,7 +51,7 @@ Sofa là khoản chi lớn — từ 10 đến 30 triệu đồng. Nhưng khảo 
 
 ## Sai Lầm 3: Mua Dựa Trên Giá Rẻ, Bỏ Qua Chất Lượng Foam
 
-**Tình huống thường gặp**: Mua sofa 5–7 triệu, foam mật độ thấp → sau 6–12 tháng đệm ngồi xẹp lún, không đàn hồi → ngồi không thoải mái.
+**Tình huống thường gặp**: Mua sofa 5–10.5 triệu, foam mật độ thấp → sau 6–12 tháng đệm ngồi xẹp lún, không đàn hồi → ngồi không thoải mái.
 
 **Hậu quả**: Phải mua sofa mới sau 1–2 năm. Tổng chi phí cao hơn sofa tốt từ đầu.
 

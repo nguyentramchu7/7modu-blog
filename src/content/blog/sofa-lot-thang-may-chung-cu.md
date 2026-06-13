@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Sofa Lọt Thang Máy Chung Cư: Giải Pháp 2025'
 description: 'Sofa lọt thang máy chung cư không còn là bài toán khó. Xem cách 7MODU đóng gọn sofa 2m+ thành 3 thùng carton, tự xách tay vào thang máy 90cm dễ dàng.'
 pubDate: '2026-05-19'
@@ -66,10 +66,10 @@ Không cần thợ. Không cần xe tải lớn. Không cần lo thang máy rộ
 | **Thời gian lắp ráp** | Không tháo được | 5–20 phút tự lắp |
 | **Khi chuyển nhà** | Thanh lý hoặc thuê thợ tháo | Tháo ngàm → xách đi như mới |
 | **Vỏ bọc dính bẩn** | Giặt tay khó, hoặc bọc cố định | Tháo vỏ ra giặt máy bình thường |
-| **Giá khởi điểm** | 5–8 triệu (chưa tính vận chuyển) | Từ 4,900,000đ (đã bao gồm giao từng module) |
+| **Giá khởi điểm** | 5–8 triệu (chưa tính vận chuyển) | Từ 6,650,000đ (đã bao gồm giao từng module) |
 | **Bảo hành** | Tùy shop, thường 6–12 tháng | 2 năm khung + foam, 6 tháng vải |
 
-Cột "chi phí thực tế" mới là con số đáng so. Sofa 5 triệu + 2.5 triệu thuê tời = 7.5 triệu. Sofa Module 7MODU Chữ I 3 chỗ giá **9,100,000đ**, giao từng thùng tận nơi, tự xách vào không tốn thêm đồng nào.
+Cột "chi phí thực tế" mới là con số đáng so. Sofa 5 triệu + 2.5 triệu thuê tời = 7.5 triệu. Sofa Module 7MODU Chữ I 3 chỗ giá **14,350,000đ**, giao từng thùng tận nơi, tự xách vào không tốn thêm đồng nào.
 
 ---
 
@@ -77,13 +77,13 @@ Cột "chi phí thực tế" mới là con số đáng so. Sofa 5 triệu + 2.5 
 
 Tùy diện tích phòng khách và số người dùng, anh/chị có thể chọn:
 
-**Sofa Đơn (1 chỗ) — 4,900,000đ**
+**Sofa Đơn (1 chỗ) — 6,650,000đ**
 Kích thước lắp xong: 80 × 85 × 75 cm. Gọn nhất, 1 thùng carton. Phù hợp cho phòng ngủ phụ hoặc góc đọc sách. Xách tay lọt bất kỳ thang máy nào.
 
-**Sofa Băng (2 chỗ) — 7,000,000đ**
+**Sofa Băng (2 chỗ) — 10,500,000đ**
 Kích thước: 155 × 85 × 75 cm. 2 thùng carton, đủ 2 người ngồi thoải mái. Lý tưởng cho studio và căn 1 phòng ngủ.
 
-**Sofa Chữ I (3 chỗ) — 9,100,000đ ⭐ Bán chạy nhất**
+**Sofa Chữ I (3 chỗ) — 14,350,000đ ⭐ Bán chạy nhất**
 Kích thước: 230 × 85 × 75 cm. Tách thành 3 thùng + 2 tay. Phù hợp phòng khách 50–70 m², gia đình 3–4 người. **Đây là lựa chọn mình thấy hợp lý nhất cho đa số chung cư Việt Nam.**
 
 **Sofa Chữ L (3+2 chỗ) — 13,300,000đ**

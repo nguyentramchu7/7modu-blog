@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Mua Sofa Trả Góp Có Nên Không? Tất Cả Những Điều Cần Biết Trước Khi Quyết Định'
 description: 'Mua Sofa Trả Góp Có Nên Không? Tất Cả Những Điều Cần Biết Trước Khi Quyết Định'
 pubDate: '2026-05-08'
@@ -34,7 +34,7 @@ Nếu anh/chị đang gửi tiết kiệm 6–8%/năm và lãi suất trả góp
 
 ### Trường hợp 1 — Lãi suất cao (trên 20%/năm)
 
-Lãi suất trả góp công ty tài chính ở Việt Nam thường 18–35%/năm. Một bộ sofa 20 triệu trả góp 24 tháng với lãi 25%/năm thực ra tốn 25–27 triệu — bạn đang trả thêm 25–35% cho tiện lợi.
+Lãi suất trả góp công ty tài chính ở Việt Nam thường 18–35%/năm. Một bộ sofa 20 triệu trả góp 24 tháng với lãi 25%/năm thực ra tốn 25–210.5 triệu — bạn đang trả thêm 25–35% cho tiện lợi.
 
 **Cách tính nhanh:** Nếu tổng số tiền góp × số tháng cao hơn giá gốc 15% trở lên — không nên.
 

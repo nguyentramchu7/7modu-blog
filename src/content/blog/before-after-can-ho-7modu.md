@@ -4,6 +4,13 @@ description: 'Case study thực tế: Căn hộ 65m² tại TP.HCM biến hóa h
 pubDate: '2026-04-21'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/asQsOBls1n8" title="Before–After: căn hộ lột xác với sofa module 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Before–After: căn hộ lột xác với sofa module 7MODU","description":"Case study thực tế: Căn hộ 65m² tại TP.HCM biến hóa hoàn toàn chỉ với sofa module 7MODU và một số thay đổi nhỏ. Xem ảnh trước-sau và chi tiết chi phí.","thumbnailUrl":"https://i.ytimg.com/vi/asQsOBls1n8/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=asQsOBls1n8","embedUrl":"https://www.youtube.com/embed/asQsOBls1n8"}</script>
+
 ## Câu Chuyện Của Anh Minh — Bình Thạnh, TP.HCM
 
 Anh Nguyễn Văn Minh, 32 tuổi, kỹ sư phần mềm, sống cùng vợ và con gái 3 tuổi trong căn hộ 65m² tại quận Bình Thạnh.

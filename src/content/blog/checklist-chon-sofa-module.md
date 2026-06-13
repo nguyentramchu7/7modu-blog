@@ -4,6 +4,13 @@ description: '12 câu hỏi quan trọng cần hỏi trước khi mua sofa modul
 pubDate: '2026-04-28'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/BPvHj4ZgnZA" title="Checklist chọn sofa module chuẩn trước khi mua | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Checklist chọn sofa module chuẩn trước khi mua | 7MODU","description":"12 câu hỏi quan trọng cần hỏi trước khi mua sofa module — từ chất lượng foam đến chính sách bảo hành. Checklist đầy đủ từ chuyên gia 7MODU.","thumbnailUrl":"https://i.ytimg.com/vi/BPvHj4ZgnZA/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=BPvHj4ZgnZA","embedUrl":"https://www.youtube.com/embed/BPvHj4ZgnZA"}</script>
+
 ## Tại Sao Cần Có Checklist Khi Mua Sofa Module?
 
 Sofa module là khoản đầu tư 15–60 triệu đồng. Không chuẩn bị kỹ → dễ mua sai, hối hận sau 6–12 tháng. Checklist 12 câu hỏi này giúp bạn hỏi đúng trọng tâm với bất kỳ nhà bán sofa module nào — kể cả khi so sánh 7MODU với đối thủ.

@@ -4,6 +4,13 @@ description: 'Review thật 7MODU sau 6 tháng sử dụng từ 3 khách hàng t
 pubDate: '2026-04-23'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/8NR6AKditAM" title="Review sofa module 7MODU sau 6 tháng sử dụng" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Review sofa module 7MODU sau 6 tháng sử dụng","description":"Review thật 7MODU sau 6 tháng sử dụng từ 3 khách hàng thực tế. Ưu nhược điểm, so sánh kỳ vọng vs thực tế, và kết luận có nên mua hay không.","thumbnailUrl":"https://i.ytimg.com/vi/8NR6AKditAM/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=8NR6AKditAM","embedUrl":"https://www.youtube.com/embed/8NR6AKditAM"}</script>
+
 ## Review Thật — Không Phải Quảng Cáo
 
 Bài viết này tổng hợp phản hồi từ **3 khách hàng 7MODU** sau 6 tháng sử dụng thực tế. Cả điểm tốt lẫn điểm chưa tốt đều được ghi lại trung thực.

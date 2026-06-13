@@ -4,6 +4,13 @@ description: 'Top 5 cấu hình sofa module 3 chỗ phù hợp nhất cho phòng
 pubDate: '2026-04-14'
 ---
 
+
+<!--VIDEO_EMBED-->
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5em 0;border-radius:12px;overflow:hidden">
+<iframe src="https://www.youtube.com/embed/jc-EtuEH7nY" title="Sofa module 3 chỗ (chữ I): kích thước & giá | 7MODU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"></iframe>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Sofa module 3 chỗ (chữ I): kích thước & giá | 7MODU","description":"Top 5 cấu hình sofa module 3 chỗ phù hợp nhất cho phòng khách dưới 30m². Kích thước, bố cục, và gợi ý từ chuyên gia 7MODU.","thumbnailUrl":"https://i.ytimg.com/vi/jc-EtuEH7nY/hqdefault.jpg","uploadDate":"2026-06-13","contentUrl":"https://www.youtube.com/watch?v=jc-EtuEH7nY","embedUrl":"https://www.youtube.com/embed/jc-EtuEH7nY"}</script>
+
 ## Tại Sao Sofa 3 Chỗ Module Là Lựa Chọn Thông Minh
 
 Sofa 3 chỗ là kích thước phổ biến nhất cho căn hộ Việt Nam — đủ chỗ cho cả gia đình nhỏ nhưng không chiếm quá nhiều diện tích. Khi kết hợp với thiết kế module, bạn còn có thêm khả năng thay đổi cấu hình linh hoạt mà sofa thường không thể có.
